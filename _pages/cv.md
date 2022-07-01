@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.E. ENSEA, 2020
+* M.S. in Electrical & Computer Engineering, Georgia Intitute of Technology, 2020
+* Ph.D in Computer Science, Universite de Rennes 1, (present)
 
 Work experience
 ======
