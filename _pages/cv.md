@@ -11,32 +11,46 @@ redirect_from:
 
 Education
 ======
-* M.E. ENSEA, 2020
+* M.E. , ENSEA, 2020
 * M.S. in Electrical & Computer Engineering, Georgia Intitute of Technology, 2020
 * Ph.D in Computer Science, Universite de Rennes 1, (present)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Feb. 2022 - Present: Research Assistant
+  * Inria
+  * Research Topics: Deep Learning, Optimisation, Mixed-precision Computing
+  * Supervisors: Prof. S. Derrien, S. Filip, Prof. G. Gravier & E. Riccietti
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Feb. 2021 - Feb. 2022: Graduate Engineer
+  * Arm
+  * Duties included: Mali GPU driver development
+
+* Jan. 2020 - May 2020: Research Assistant
+  * Georgia Institute of Technology
+  * Research Topics: Tracking, Object Detection, Computer Vision, Civil Engineering
+
+* Jun. 2019 - Dec. 2019: Software Developer Intern
+  * SAP
+  * Duties included: SAP Intelligent Robotic Process Automation backend development
+
+* April 2018 - August 2018: Software Engineer Intern
+  * General Electric Healthcare
+  * Duties included: Implemented multiple tools facilitating the use of a cloud medical imaging platform developed by General Electric 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Deep Learning
+  * Pytorch
+  * JAX 
+* Computer Vision
+* Kernel Development
+* Development
+  * Python
+  * C/C++
+  * Java
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -46,14 +60,15 @@ Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Service and leadership
+* Jan. 2019 - May 2019: Teaching Assistant
+  * Georgia Tech Lorraine
+  * Duties included: Supervised 20+ students for a semester during Digital Electronics labs
+  
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
