@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+[pdf version](http://paulestano.github.io/files/Resume.pdf)
 Education
 ======
 * MEng , ENSEA, 2020
