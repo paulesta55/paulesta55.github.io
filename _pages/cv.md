@@ -20,7 +20,7 @@ Education
 
 Work experience
 ======
-* Feb. 2022 - Present: Research Assistant
+* Feb. 2022 - Present: PhD Student
   * Inria
   * Research Topics: Deep Learning, Optimisation, Mixed-precision Computing
   * Supervisors: Prof. S. Derrien, S. Filip, Prof. G. Gravier & E. Riccietti
