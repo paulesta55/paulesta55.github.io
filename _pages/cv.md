@@ -23,7 +23,7 @@ Work experience
 * Feb. 2022 - Present: PhD Student
   * Inria
   * Research Topics: Deep Learning, Optimisation, Mixed-precision Computing
-  * Supervisors: Prof. S. Derrien, S. Filip, Prof. G. Gravier & E. Riccietti
+  * Supervisors: S.I. Filip, Prof. G. Gravier & E. Riccietti
 
 * Feb. 2021 - Feb. 2022: Graduate Engineer
   * Arm
@@ -43,6 +43,9 @@ Work experience
   
 Skills
 ======
+* Continuous Optimization
+* Machine Learning
+  * Scikit-learn
 * Deep Learning
   * Pytorch
   * JAX 
