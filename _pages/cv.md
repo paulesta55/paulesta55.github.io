@@ -14,9 +14,9 @@ redirect_from:
 
 Education
 ======
-* MEng , ENSEA, 2020
-* MSc in Electrical & Computer Engineering, Georgia Intitute of Technology, 2020
 * PhD in Computer Science, Universite de Rennes 1, (present)
+* MSc in Electrical & Computer Engineering, Georgia Intitute of Technology, 2020
+* MEng , ENSEA, 2020
 
 Work experience
 ======
